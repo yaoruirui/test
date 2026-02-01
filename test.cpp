@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int test() {
+int test1() {
 	for (int i = 0; i <= 5; i++) {
 		cout << "hello world" << endl;
 		cout << "1" << endl;
