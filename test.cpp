@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
 int test() {
-	cout << "hello world" << endl;
+	for (int i = 0; i <= 5; i++) {
+		cout << "hello world" << endl;
+	}
+
 }
